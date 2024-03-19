@@ -1,12 +1,10 @@
 import "./App.css";
 import Nav from "./Nav.jsx";
-
+import "../../node_modules/bootstrap/dist/css/bootstrap.min.css";
 export default function App() {
   return (
     <>
       <Nav />
-      <h1>Vite + React</h1>
-      <h1>Hello World</h1>
     </>
   );
 }
