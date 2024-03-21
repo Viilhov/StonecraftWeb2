@@ -4,7 +4,10 @@ export default function Nav() {
       <nav className="navbar navbar-expand-lg navbar-dark fixed-top ">
         <div className="container-fluid">
           <a className="navbar-brand" href="">
-            <img src="./" alt="Stonecraft Logo" />
+            <img
+              src="./images/stonecraft-logo-oslo-white-w.png"
+              alt="Stonecraft Logo"
+            />
           </a>
           <button
             className="navbar-toggler"
