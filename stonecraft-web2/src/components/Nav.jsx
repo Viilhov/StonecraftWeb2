@@ -1,10 +1,16 @@
+import "./Nav.css";
+
 export default function Nav() {
   return (
     <div>
       <nav className="navbar navbar-expand-lg navbar-dark fixed-top ">
         <div className="container-fluid">
           <a className="navbar-brand" href="">
-            <img src="" alt="Stonecraft Logo" />
+            <img
+              src="images/Stonecraft logo oslo white W.png"
+              alt="Stonecraft Logo"
+              className="nav-logo"
+            />
           </a>
           <button
             className="navbar-toggler"
