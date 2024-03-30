@@ -1,0 +1,21 @@
+.photo-gallery {
+  background-image: url("/images/Secret\ Window\ webbackground.jpg");
+  background-repeat: none;
+  background-size: cover;
+  max-width: 100%;
+  padding-top: 100px;
+}
+.gallery {
+  width: 69%;
+  display: block;
+  margin: auto;
+  padding-bottom: 100px;
+  padding-top: 60px;
+}
+.gallery .row .col-3 {
+  padding: 0;
+}
+.gallery img {
+  padding: 0;
+  border-radius: 0;
+}
